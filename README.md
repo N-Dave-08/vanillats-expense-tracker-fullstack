@@ -215,11 +215,3 @@ Use Postman or another API client:
 - Improve UI design
 
 ---
-
-## 👨‍💻 Author
-
-Built for learning full-stack development using Vanilla TypeScript + Node.js + PostgreSQL.
-
-```
-
-```
