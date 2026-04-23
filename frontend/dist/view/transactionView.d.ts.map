@@ -1,0 +1,1 @@
+{"version":3,"file":"transactionView.d.ts","sourceRoot":"","sources":["../../src/view/transactionView.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,8BAA8B,CAAC;AAE3D,qBAAa,eAAe;IAC1B,OAAO,CAAC,MAAM,CAAoC;IAClD,OAAO,CAAC,SAAS,CAAuC;IAExD,MAAM,CAAC,YAAY,EAAE,WAAW,EAAE;IAUlC,aAAa,CAAC,YAAY,EAAE,WAAW,EAAE;CAS1C"}

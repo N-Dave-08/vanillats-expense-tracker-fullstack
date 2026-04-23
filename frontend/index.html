@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Budget Tracker</title>
+  </head>
+  <body>
+    <h1>Budget Tracker</h1>
+
+    <h2 id="balance">Balance: ₱0</h2>
+
+    <form id="form">
+      <input id="desc" placeholder="Description" required />
+      <input id="amount" type="number" placeholder="Amount" required />
+
+      <select id="type">
+        <option value="income">Income</option>
+        <option value="expense">Expense</option>
+      </select>
+
+      <button>Add</button>
+    </form>
+
+    <ul id="list"></ul>
+
+    <script type="module" src="./dist/app.js"></script>
+  </body>
+</html>
